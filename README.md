@@ -1,0 +1,2 @@
+# LovelDuelPrivacyPolicy
+PrivacyPolicy
